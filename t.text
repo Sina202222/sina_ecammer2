@@ -7,8 +7,13 @@ cd front_end
 
 npm install
 
+npm install axios @reduxjs/toolkit react-redux react-router-dom
+
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
+
+npm install axios react-router-dom react-redux 
+
 
 npm install react-router-dom
 

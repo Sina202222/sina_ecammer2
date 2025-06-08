@@ -15,6 +15,9 @@ python manage.py startapp users
 python manage.py startapp orders
 
 
+# نصب Django و کتابخانه‌های مورد نیاز
+pip install django djangorestframework django-cors-headers pillow djoser
+
 
 
 python manage.py runserver 
