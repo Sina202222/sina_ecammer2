@@ -16,7 +16,8 @@ python manage.py startapp orders
 
 
 # نصب Django و کتابخانه‌های مورد نیاز
-pip install django djangorestframework django-cors-headers pillow djoser
+pip install django djangorestframework
+pip install django-cors-headers Pillow 
 
 
 
@@ -25,7 +26,7 @@ python manage.py runserver
 python manage.py makemigrations
 python manage.py migrate
 
-pip install django-cors-headers
+
 
 
 python manage.py createsuperuser

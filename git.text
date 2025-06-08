@@ -3,6 +3,10 @@ git init
 git add README.md
 git commit -m "first commit"
 git commit -m " install package django"
+git commit -m " install package React"
+git commit -m "  Add 5images + Name "
+
+
 
 git branch -M main
 git remote add origin https://github.com/Sina202222/sina_ecammer2.git
